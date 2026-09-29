@@ -1,1 +1,11 @@
-Brainstorming Ideation
+
+Brainstorming & Ideation Phase
+Problem Identified:
+Students often find it hard to understand new topics quickly and don't have an easy way to test their own understanding.
+Idea:
+Build an AI-powered learning assistant using the Google Gemini API that can explain topics simply, summarize them, and generate quizzes for self-testing.
+Why This Idea:
+Combines three useful learning tools (explain, summarize, quiz) in one app
+Uses generative AI to give personalized, on-demand help
+Simple enough to build and demo within the project timeline
+Project Name Chosen: EduGenie – Google Gemini Powered Learning Assistant
